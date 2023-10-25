@@ -1,0 +1,152 @@
+{
+	"info": {
+		"_postman_id": "d8beafa7-29a8-461d-8fda-fa5ef2ad9512",
+		"name": "ASP.NET Core Series",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28100906"
+	},
+	"item": [
+		{
+			"name": "GetAllOwners",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/owner",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"owner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Owner  By Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5001/api/owner/261e1685-cf26-494c-b17c-3546e65f5620",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"owner",
+						"261e1685-cf26-494c-b17c-3546e65f5620"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Owner  By Id With Details",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5001/api/owner/261e1685-cf26-494c-b17c-3546e65f5620",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"owner",
+						"261e1685-cf26-494c-b17c-3546e65f5620"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Owner",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\":\"Mark Marton\",\r\n    \"dateOfBirth\":\"1994-02-08\",\r\n    \"address\":\"Sunny street 60\"\r\n}\r\n\r\n// {\r\n//     \"name\":\"Mark Marton\",\r\n//     \"dateOfBirth\":\"1994-02-08\",\r\n//     \"address\":\"Sunny street 60\"\r\n// }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5001/api/owner",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"owner"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Owner",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\":\"Mark Marton\",\r\n    \"dateOfBirth\":\"1994-02-08\",\r\n    \"address\":\"Moon street 78\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5001/api/owner/f98e4d74-0f68-4aac-89fd-047f1aaca6b6",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"owner",
+						"f98e4d74-0f68-4aac-89fd-047f1aaca6b6"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Owner",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/owner/08dbd3ed-db93-45a6-839d-9b1d814c96ba",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"owner",
+						"08dbd3ed-db93-45a6-839d-9b1d814c96ba"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -2,3 +2,17 @@
 2023-10-25 12:24:12.2472 DEBUG Here is debug message from the controller.
 2023-10-25 12:24:12.2472 WARN Here is warn message from the controller.
 2023-10-25 12:24:12.2472 ERROR Here is error message from the controller.
+2023-10-25 13:23:23.2065 INFO Returned all owners from database.
+2023-10-25 13:39:36.6533 INFO Returned all owners from database.
+2023-10-25 13:42:00.2151 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-10-25 13:46:01.2755 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-10-25 13:46:32.9002 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-10-25 13:47:09.0410 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-10-25 13:47:13.4166 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-10-25 13:48:25.1341 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2023-10-25 13:48:44.1182 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-10-25 13:48:52.9463 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-10-25 13:54:20.2595 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-10-25 13:54:49.5908 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-10-25 13:55:09.5135 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-10-25 13:56:09.5739 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906

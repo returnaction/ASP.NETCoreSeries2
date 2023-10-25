@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "CfkTCX6J53//4Z6xDkUSaXzIW4JjsknJkwarNHfLg/f6ZKs/8XEh0vlMhc7/8v6yC+Fy1b+t77eIL0Bcl5SAVA==",
+  "dgSpecHash": "9p64VjXRTmxkE0gjo4dgI2LHg+Xg+leKscPP13MkLpSPwVyZP0wKrRLo6qktQ9FtKVCGFjZ/DWU1TRrCLEbl6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Oberg\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Oberg\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Oberg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Oberg\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\Oberg\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
     "C:\\Users\\Oberg\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.2\\microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",

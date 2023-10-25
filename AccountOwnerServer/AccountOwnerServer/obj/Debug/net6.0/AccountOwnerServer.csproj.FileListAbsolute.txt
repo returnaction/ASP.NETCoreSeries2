@@ -50,3 +50,5 @@ C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwner
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\AccountOwnerServer\obj\Debug\net6.0\AccountOwnerServer.pdb
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\AccountOwnerServer\obj\Debug\net6.0\AccountOwnerServer.genruntimeconfig.cache
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\AccountOwnerServer\obj\Debug\net6.0\ref\AccountOwnerServer.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\AccountOwnerServer\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
