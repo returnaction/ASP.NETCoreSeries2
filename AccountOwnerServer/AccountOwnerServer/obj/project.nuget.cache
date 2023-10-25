@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vgfeg5334xr48pgaO1NYZ/w55bTFBn20mGksvLi5DcPSwvzLEVxiI4IYrWlGRq/+4HxfqyxQcGEmqOj2u+UIiw==",
+  "dgSpecHash": "dnY56M9cP5x49vJJAwXkOZzPCGfFun6iB/z4s5LolKuqRnR6M45doVuIxOKtjoer3rSBEszRRelsquzubjuS0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\CodeMaze\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+  "projectFilePath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

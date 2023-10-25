@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oberg\\OneDrive\\Desktop\\CodeMaze\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj": {}
+    "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oberg\\OneDrive\\Desktop\\CodeMaze\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj": {
+    "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oberg\\OneDrive\\Desktop\\CodeMaze\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+        "projectUniqueName": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
         "projectName": "AccountOwnerServer",
-        "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\CodeMaze\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+        "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
         "packagesPath": "C:\\Users\\Oberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\CodeMaze\\AccountOwnerServer\\AccountOwnerServer\\obj\\",
+        "outputPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\AccountOwnerServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
