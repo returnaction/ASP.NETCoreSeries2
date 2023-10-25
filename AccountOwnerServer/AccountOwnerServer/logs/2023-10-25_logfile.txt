@@ -16,3 +16,4 @@
 2023-10-25 13:54:49.5908 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
 2023-10-25 13:55:09.5135 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
 2023-10-25 13:56:09.5739 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2023-10-25 14:08:47.8093 INFO Returned all owners from database.
