@@ -2,7 +2,9 @@ C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwner
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\bin\Debug\net6.0\LoggerService.dll
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\bin\Debug\net6.0\LoggerService.pdb
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\bin\Debug\net6.0\Contracts.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\bin\Debug\net6.0\Entities.dll
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\bin\Debug\net6.0\Entities.pdb
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache

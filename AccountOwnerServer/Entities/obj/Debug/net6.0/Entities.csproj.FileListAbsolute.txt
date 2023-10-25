@@ -1,0 +1,12 @@
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\WebApI\ASP.NETCoreSeries2\AccountOwnerServer\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
                 "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\LoggerService\\LoggerService.csproj"
+              },
+              "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Repository\\Repository.csproj"
               }
             }
           }
@@ -89,6 +92,65 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Oberg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -101,6 +163,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -164,8 +232,74 @@
             "NLog.Extensions.Logging": {
               "target": "Package",
               "version": "[5.3.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Oberg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oberg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Oberg\\OneDrive\\Desktop\\PortFolio\\WebApI\\ASP.NETCoreSeries2\\AccountOwnerServer\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
