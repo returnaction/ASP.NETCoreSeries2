@@ -1,0 +1,1 @@
+2023-10-26 13:06:23.6511 INFO Returned all owners from database.
